@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-My 
-I 
-You
-=======
-Sandeep
-Varun
->>>>>>> dev
